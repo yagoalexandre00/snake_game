@@ -1,1 +1,1 @@
-<h1>Snake Game</h1>
+<h1>Snake Game 🐍</h1>
