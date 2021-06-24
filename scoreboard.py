@@ -31,3 +31,4 @@ class Scoreboard(Turtle):
         self.clear()
         self.goto(-20, 270)
         self.write(f"Score: {self.score}  High Score: {self.highscore}", align=ALIGNMENT, font=FONT)
+        
